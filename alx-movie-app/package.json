@@ -1,1 +1,18 @@
+git clone https://github.com/YOUR_USER_NAME/alx-project-0x14.git alx-pwa-0x01
+cd alx-movie-app
+
+npm i @ducanh2912/next-pwa
+npm i -D webpack
+
+npm i -D webpack
+
+package.json
+
+"dependencies": {
+  "@ducanh2912/next-pwa": "^10.2.9"
+},
+"devDependencies": {
+  "webpack": "^5.94.0"
+}
+
 
